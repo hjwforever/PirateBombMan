@@ -1,0 +1,13 @@
+Localization,1.0.0,,,,,,,,,,,,,,
+ID,en:English,ja:Japanese,zh:Chinese,zh-CN:ChineseSimplified,zh-TW:ChineseTraditional,fr:French,es:Spanish,ko:Korean,id:Indonesian,th:Thai,ar:Arabic,ru:Russian,de:German,it:Italian,pt:Portuguese
+#Category01,,,,,,,,,,,,,,,
+Localization ID 01,English,日本語,中文,中文,中文,français,Español,한국어,bahasa Indonesia,ไทย,عربى,русский,Deutsche,italiano,Português
+hello,hello,こんにちは,你好,你好,你好,Bonjour,Hola,여보세요,Halo,สวัสดี,مرحبا,Здравствуйте,Hallo,Ciao,Olá
+thank you,thank you,ありがとうございました,谢谢,谢谢,謝謝,Je vous remercie,gracias,감사합니다,Terima kasih,ขอขอบคุณ,شكرا لك,благодарю вас,Dankeschön,grazie,obrigado
+attack,attack,攻撃,攻击,攻击,攻擊,attaque,ataque,공격,menyerang,โจมตี,هجوم,атака,Attacke,attacco,ataque
+go ahead,Go ahead,どうぞ,前进,前进,前進,Aller de l'avant,Adelante,그렇게하세요,Lanjutkan,เอาเลย,إنطلق,Преуспевать,Gehen Sie geradeaus,Vai avanti,Continue
+thank you,damage,ダメージ,损伤,损伤,損傷,dommage,dañar,피해를 주다,kerusakan,ความเสียหาย,ضرر,повреждение,Schaden,danno,danificar
+Injured,Injured,負傷,受伤,受伤,受傷,Blessé,Lesionado,다쳐서,Terluka,ได้รับบาดเจ็บ,مصاب,Ранен,Verletzt,ferito,ferido
+upgrade,upgrade,アップグレード,升级,升级,升級,améliorer,potenciar,업그레이드,meningkatkan,อัพเกรด,تطوير,Обновить,Aktualisierung,aggiornare,melhoria
+level up,level up,レベルアップ,升级,升级,升級,niveau supérieur,elevar a mismo nivel,레벨 업,naik tingkat,ยกระดับ,المستوى الأعلى,уровень повышен,aufleveln,Level up,subir de nível
+game over,game over,ゲームオーバー,游戏结束,游戏结束,遊戲結束,jeu terminé,juego terminado,게임 끝,permainan telah berakhir,จบเกม,انتهت اللعبة,игра завершена,Spiel ist aus,gioco finito,fim de jogo
