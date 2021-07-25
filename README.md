@@ -3,7 +3,7 @@ PirateBombMan, a 2D game built by Unity
 2D 炸弹人游戏， 海盗主题 
 > Unity·2D·横版过关
 > 
-> 一、 菜单： 
+> 一、 [菜单：](#menu) 
 > 
 > <kbd>NEW GAME</kbd> 开始新游戏
 > 
@@ -11,7 +11,7 @@ PirateBombMan, a 2D game built by Unity
 > 
 > <kbd>QUIT</kbd>  退出
 > 
-> 二、 设置： 
+> 二、 [设置：](#pause) 
 > 
 > 进入游戏后，点击右上方的<kbd>PAUSE</kbd>即可暂停并更改设置或退出
 > 
@@ -21,7 +21,7 @@ PirateBombMan, a 2D game built by Unity
 > 
 > <kbd>MAIN</kbd>  返回主菜单
 > 
-> 三、 移动控制模式： 
+> 三、 [移动控制模式：](#dead) 
 > 
 > ①Fixed： 滑杆位置固定
 > 
@@ -35,7 +35,7 @@ PirateBombMan, a 2D game built by Unity
 > 
 > <kbd>💣</kbd> 布置炸弹(有cd)
 >  
->  五、 死亡后弹出的菜单：
+>  五、 [死亡后弹出的菜单](#dead)
 >  
 >  <kbd>RETART</kbd> **观看广告后满血复活**
 >  
@@ -55,15 +55,15 @@ PirateBombMan, a 2D game built by Unity
 >   
 >  ⑤ [船长](#finalboss)
 
-### Menu
+### <a id="menu">Menu</a>
 
 ![Game/PirateBombMan/menu](https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/Game/PirateBombMan/menu.jpg)
 
-### Paused&Settings
+### <a id="pause">Paused&Settings</a>
 
 ![Game/PirateBombMan/Paused&Settings](https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/Game/PirateBombMan/Paused&Settings.jpg)
 
-### Dead
+### <a id="dead">Dead</a>
 
 ![Game/PirateBombMan/dead](https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/Game/PirateBombMan/dead.jpg)
 
@@ -87,6 +87,6 @@ PirateBombMan, a 2D game built by Unity
 
 ![Game/PirateBombMan/finalBoss](https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/Game/PirateBombMan/finalBoss.jpg)
 
-### Victory
+### <a id="win">Victory</a>
 
 ![Game/PirateBombMan/win](https://cdn.jsdelivr.net/gh/hjwforever/images@main/img/Game/PirateBombMan/win.jpg)
