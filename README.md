@@ -1,5 +1,8 @@
 # PirateBombMan
-PirateBombMan, a 2D game built by Unity
+PirateBombMan, a 2D game built by Unity  
+
+**[前往下载demo安装包](https://github.com/hjwforever/PirateBombMan/releases/tag/v1.0-alpha)**
+
 2D 炸弹人游戏， 海盗主题 
 > Unity·2D·横版过关
 > 
